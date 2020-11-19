@@ -1,0 +1,2 @@
+# JAVA_For_Everyone
+试图写一个最通俗易懂的Java学习笔记
